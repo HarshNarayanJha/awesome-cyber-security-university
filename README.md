@@ -14,7 +14,7 @@
 ## Contents
 
 * [About](#about)
-* [Introduction and Pre-Security](#introduction-and-pre-security) - (Completed/In Progress)
+* [Introduction and Pre-Security](#introduction-and-pre-security) - (In Progress)
 * [Free Beginner Red Team Path](#free-beginner-red-team-path) - (Add your badge here. The badge code is hidden in this repo)
 * [Free Beginner Blue Team Path](#free-beginner-blue-team-path) - (Add your badge here. The badge code is hidden in this repo)
 * [Bonus CTF practice and Latest CVEs](#bonus-ctf-practice-and-latest-cves) - (Completed/In Progress)
