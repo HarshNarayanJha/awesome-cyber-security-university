@@ -14,7 +14,7 @@
 ## Contents
 
 * [About](#about)
-* [Introduction and Pre-Security](#introduction-and-pre-security) - (In Progress)
+* [Introduction and Pre-Security](#introduction-and-pre-security) - (Completed) ✅
 * [Free Beginner Red Team Path](#free-beginner-red-team-path) - (Add your badge here. The badge code is hidden in this repo)
 * [Free Beginner Blue Team Path](#free-beginner-blue-team-path) - (Add your badge here. The badge code is hidden in this repo)
 * [Bonus CTF practice and Latest CVEs](#bonus-ctf-practice-and-latest-cves) - (Completed/In Progress)
@@ -48,7 +48,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 ## Introduction and Pre-Security
 
-### Level 1 - Intro
+### Level 1 - Intro ✅
 
 <!--lint disable double-link-->
 * [OpenVPN](<https://tryhackme.com/room/openvpn>) - Learn how to connect to a virtual private network using OpenVPN.<!--lint enable double-link-->
