@@ -63,7 +63,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Hip Flask](https://tryhackme.com/room/hipflask) - An in-depth walkthrough covering pentest methodology against a vulnerable server.
 
 <!-- markdownlint-disable MD036 -->
-**Introductory CTFs to get your feet wet**<!-- markdownlint-enable MD036 -->
+**Introductory CTFs to get your feet wet** ✅<!-- markdownlint-enable MD036 -->
 
 * [Google Dorking](<https://tryhackme.com/room/googledorking>) - Explaining how Search Engines work and leveraging them into finding hidden content!
 * [Osint](<https://tryhackme.com/room/ohsint>) - Intro to Open Source Intelligence.
@@ -74,7 +74,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 ## Free Beginner Red Team Path
 
-### Level 2 - Tooling
+### Level 2 - Tooling ✅
 
 * [Tmux](<https://tryhackme.com/room/rptmux>) - Learn to use tmux, one of the most powerful multi-tasking tools on linux.
 * [Nmap](<https://tryhackme.com/room/rpnmap>) - Get experience with Nmap, a powerful network scanning tool.
@@ -87,7 +87,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Red Team Recon](<https://tryhackme.com/room/redteamrecon>) - Learn how to use DNS, advanced searching, Recon-ng, and Maltego to collect information about your target.
 
 <!-- markdownlint-disable MD036 -->
-**Red Team Intro CTFs**<!-- markdownlint-enable MD036 -->
+**Red Team Intro CTFs** ✅<!-- markdownlint-enable MD036 -->
 
 * [Vulnversity](<https://tryhackme.com/room/vulnversity>) - Learn about active recon, web app attacks and privilege escalation.
 * [Blue](<https://tryhackme.com/room/blue>) - Deploy & hack into a Windows machine, leveraging common misconfigurations issues.
