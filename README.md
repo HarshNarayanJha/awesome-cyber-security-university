@@ -97,7 +97,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
 
-### Level 3 - Crypto & Hashes with CTF practice
+### Level 3 - Crypto & Hashes with CTF practice ✅
 
 * [Crack the hash](<https://tryhackme.com/room/crackthehash>) - Cracking hash challenges.
 * [Agent Sudo](<https://tryhackme.com/room/agentsudoctf>) - You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth.
