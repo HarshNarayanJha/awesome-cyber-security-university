@@ -110,7 +110,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
 
-### Level 4 - Web
+### Level 4 - Web ✅
 
 * [OWASP top 10](<https://tryhackme.com/room/owasptop10>) - Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks.
 * [Inclusion](<https://tryhackme.com/room/inclusion>) - A beginner-level LFI challenge.
