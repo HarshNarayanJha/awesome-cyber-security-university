@@ -138,6 +138,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
 
+### Level 6 - PrivEsc ✅
 
 * [Sudo Security Bypass](<https://tryhackme.com/room/sudovulnsbypass>) - A tutorial room exploring CVE-2019-14287 in the Unix Sudo Program. Room One in the SudoVulns Series.
 * [Sudo Buffer Overflow](<https://tryhackme.com/room/sudovulnsbof>) - A tutorial room exploring CVE-2019-18634 in the Unix Sudo Program. Room Two in the SudoVulns Series.
