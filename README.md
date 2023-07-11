@@ -15,6 +15,7 @@
 
 * [About](#about)
 * [Introduction and Pre-Security](#introduction-and-pre-security) - (Completed) ✅
+* [Free Beginner Red Team Path](#free-beginner-red-team-path) - <a href="https://github.com/brootware/Cyber-Security-University"><img src="https://img.shields.io/badge/Completed-Red%20Team%20Path-red" /></a>
 * [Free Beginner Blue Team Path](#free-beginner-blue-team-path) - (Add your badge here. The badge code is hidden in this repo)
 * [Bonus CTF practice and Latest CVEs](#bonus-ctf-practice-and-latest-cves) - (Completed/In Progress)
 * [Bonus Windows](#bonus-windows) - (Completed/In Progress)
