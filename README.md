@@ -15,7 +15,6 @@
 
 * [About](#about)
 * [Introduction and Pre-Security](#introduction-and-pre-security) - (Completed) ✅
-* [Free Beginner Red Team Path](#free-beginner-red-team-path) - (Add your badge here. The badge code is hidden in this repo)
 * [Free Beginner Blue Team Path](#free-beginner-blue-team-path) - (Add your badge here. The badge code is hidden in this repo)
 * [Bonus CTF practice and Latest CVEs](#bonus-ctf-practice-and-latest-cves) - (Completed/In Progress)
 * [Bonus Windows](#bonus-windows) - (Completed/In Progress)
@@ -125,7 +124,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
 
-### Level 5 - Reverse Engineering & Pwn
+### Level 5 - Reverse Engineering & Pwn ✅
 
 * [Intro to x86 64](<https://tryhackme.com/room/introtox8664>) - This room teaches the basics of x86-64 assembly language.
 * [CC Ghidra](<https://tryhackme.com/room/ccghidra>) - This room teaches the basics of ghidra.
@@ -139,7 +138,6 @@ Pull requests are welcome with the condition that the resource should be free! P
 <!--lint disable double-link-->
 [↑](#contents)<!--lint enable double-link-->
 
-### Level 6 - PrivEsc
 
 * [Sudo Security Bypass](<https://tryhackme.com/room/sudovulnsbypass>) - A tutorial room exploring CVE-2019-14287 in the Unix Sudo Program. Room One in the SudoVulns Series.
 * [Sudo Buffer Overflow](<https://tryhackme.com/room/sudovulnsbof>) - A tutorial room exploring CVE-2019-18634 in the Unix Sudo Program. Room Two in the SudoVulns Series.
