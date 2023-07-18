@@ -166,7 +166,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 
 ## Free Beginner Blue Team Path
 
-### Level 1 - Tools
+### Level 1 - Tools ✅
 
 * [Introduction to digital forensics](https://tryhackme.com/room/introdigitalforensics) - Intro to Digital Forensics.
 * [Windows Fundamentals](<https://tryhackme.com/room/windowsfundamentals1xbx>) -  Intro to Windows.
